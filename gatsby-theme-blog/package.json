@@ -6,5 +6,13 @@
   "license": "0BSD",
   "peerDependencies": {
     "gatsby": "^2.6.0"
+  },
+  "dependencies": {
+    "@theme-ui/preset-swiss": "^0.3.0",
+    "gatsby-plugin-theme-ui": "^0.3.3",
+    "theme-ui": "^0.3.3"
+  },
+  "devDependencies": {
+    "@types/theme-ui": "^0.3.7"
   }
 }
