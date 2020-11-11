@@ -12,5 +12,9 @@
     "esModuleInterop": true
   },
   "include": ["./**/*.ts", "./**/*.tsx"],
-  "exclude": ["node_modules", "example/node_modules", "gatsby-theme-blog/node_modules"]
+  "exclude": [
+    "node_modules",
+    "example/node_modules",
+    "gatsby-theme-blog/node_modules"
+  ]
 }
