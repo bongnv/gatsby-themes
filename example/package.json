@@ -2,15 +2,15 @@
   "name": "example",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "christopherbiscardi <chris@christopherbiscardi.com> (@chrisbiscardi)",
-  "license": "MIT",
+  "author": "Bong Nguyen <vanbong@gmail.com> (@bongnv)",
+  "license": "0BSD",
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build"
   },
   "dependencies": {
+    "@bongnv/gatsby-theme-blog": "^1.0.0",
     "gatsby": "^2.25.3",
-    "gatsby-theme-minimal": "^1.0.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   }
