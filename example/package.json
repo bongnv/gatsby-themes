@@ -9,7 +9,7 @@
     "build": "gatsby build"
   },
   "dependencies": {
-    "@bongnv/gatsby-theme-blog": "^1.0.0",
+    "@bongnv/gatsby-theme-blog": "*",
     "@types/react": "^16.9.56",
     "gatsby": "^2.25.3",
     "react": "^16.12.0",
