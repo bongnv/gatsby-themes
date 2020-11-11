@@ -5,10 +5,14 @@
   "main": "index.js",
   "license": "0BSD",
   "scripts": {
-    "build": "yarn workspace example build"
+    "develop": "yarn workspace example develop",
+    "type-check": "tsc --noEmit"
   },
   "workspaces": [
     "gatsby-theme-blog",
     "example"
-  ]
+  ],
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  }
 }
